@@ -1,0 +1,9 @@
+C:\Users\Gil\source\repos\12.11.19_MemoryGame_Itay\12.11.19_MemoryGame_Itay\bin\Debug\12.11.19_MemoryGame_Itay.exe.config
+C:\Users\Gil\source\repos\12.11.19_MemoryGame_Itay\12.11.19_MemoryGame_Itay\bin\Debug\12.11.19_MemoryGame_Itay.exe
+C:\Users\Gil\source\repos\12.11.19_MemoryGame_Itay\12.11.19_MemoryGame_Itay\bin\Debug\12.11.19_MemoryGame_Itay.pdb
+C:\Users\Gil\source\repos\12.11.19_MemoryGame_Itay\12.11.19_MemoryGame_Itay\obj\Debug\12.11.19_MemoryGame_Itay.csprojAssemblyReference.cache
+C:\Users\Gil\source\repos\12.11.19_MemoryGame_Itay\12.11.19_MemoryGame_Itay\obj\Debug\_12._11._19_MemoryGame_Itay.Properties.Resources.resources
+C:\Users\Gil\source\repos\12.11.19_MemoryGame_Itay\12.11.19_MemoryGame_Itay\obj\Debug\12.11.19_MemoryGame_Itay.csproj.GenerateResource.cache
+C:\Users\Gil\source\repos\12.11.19_MemoryGame_Itay\12.11.19_MemoryGame_Itay\obj\Debug\12.11.19_MemoryGame_Itay.exe
+C:\Users\Gil\source\repos\12.11.19_MemoryGame_Itay\12.11.19_MemoryGame_Itay\obj\Debug\12.11.19_MemoryGame_Itay.pdb
+C:\Users\Gil\source\repos\12.11.19_MemoryGame_Itay\12.11.19_MemoryGame_Itay\obj\Debug\_12._11._19_MemoryGame_Itay.Form1.resources
